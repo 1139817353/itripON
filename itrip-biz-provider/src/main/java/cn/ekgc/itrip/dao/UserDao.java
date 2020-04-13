@@ -2,10 +2,11 @@ package cn.ekgc.itrip.dao;
 
 
 import cn.ekgc.itrip.base.pojo.entity.User;
+import org.springframework.stereotype.Repository;
 
 import javax.annotation.Resource;
 import java.util.List;
-@Resource
+@Repository
 public interface UserDao {
 	/**
 	 * <b>查询用户信息</b>

@@ -1,12 +1,13 @@
 package cn.ekgc.itrip.dao;
 
 import cn.ekgc.itrip.base.pojo.entity.HotelOrder;
+import org.springframework.stereotype.Repository;
 
 import javax.annotation.Resource;
 import java.util.List;
 import java.util.Map;
 
-@Resource
+@Repository
 public interface HotelOrderDao {
 	/**
 	 * <b>查询这个时间段租出多少间房</b>
