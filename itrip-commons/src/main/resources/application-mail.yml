@@ -1,0 +1,6 @@
+### 配置邮件发送功能
+spring:
+  mail:
+    host: smtp.163.com
+    username: zmeye330@163.com
+    password: z1999330

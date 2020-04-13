@@ -1,0 +1,11 @@
+# Project exclude paths
+/itrip-auth-consumer/target/
+/itrip-biz-consumer/target/
+/itrip-biz-provider/target/
+/itrip-commons/target/
+/itrip-eureka-server/target/
+/itrip-provider-commons/target/
+/itrip-search-consumer/target/
+/itrip-search-provider/target/
+/itrip-trade-consumer/target/
+/itrip-trade-provider/target/
